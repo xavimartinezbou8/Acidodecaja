@@ -4,7 +4,7 @@
 
 CSS Samurai Todd Fahrner desarrolla Box Acid Test como una forma de probar la compatibilidad de los navegadores con CSS. 
 
-![U+200E](https://github.com/xavimartinezbou8/Acidodecaja/commit/7156b55eca1b33bdc3ddd99f94eed9d664318213 "imagen")
+![U+200E](https://github.com/xavimartinezbou8/Acidodecaja/blob/main/can-i-use-web-filter-css.jpg "imagen")
 
 2. __Cuando fue creada?__
 
